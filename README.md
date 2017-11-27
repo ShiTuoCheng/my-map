@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+![image](https://github.com/ShiTuoCheng/my-map/blob/master/screenshots/demoAnimation.gif)
+
 ## Build Setup
 
 ``` bash
